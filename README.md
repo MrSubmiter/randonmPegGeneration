@@ -2,11 +2,6 @@ peg-gen
 ==============
 This library aims to provide a well typed (and thus well formed) PEG generator. 
 
- 
-
-![example workflow](https://github.com/lives-group/pegwfgen/actions/workflows/main.yml/badge.svg)
-![example workflow](https://github.com/lives-group/pegwfgen/actions/workflows/test.yml/badge.svg)
-
 
 
 # Installing
