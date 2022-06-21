@@ -9,7 +9,7 @@
                      rackunit]])
 
 @title{peggen}
-@author{Elton M. Cardoso, Rodrigo G. Ribeiro, Leonardo V. S. Reis}
+@author{Secret}
 
 @defmodule[peg-gen]
 
