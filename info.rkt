@@ -9,4 +9,4 @@
 (define scribblings '(("scribblings/peg-gen.scrbl" ())))
 (define pkg-desc "Type safe (and thus well formed) random peg generator")
 (define version "0.0")
-(define pkg-authors '(EltonMC RodrigoGR LeonardoVSR ))
+(define pkg-authors '(Secret1 Secret2 Secret3 ))
