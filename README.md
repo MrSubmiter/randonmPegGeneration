@@ -59,6 +59,23 @@ the expression associated wiht the non-terminal (head set).
 
 This library has its own raccheck tests that are executed by the raco test command line. 
 There is some special test-cases designed to test the geenration process more rigorously. Those teste are more computational intensive and can take many hours to complete. 
+To run the basic tests, from the command line, just run: 
+
+```racket
+>  raco test main.rkt
+```
+
+# How to run the experiments
+
+There is a runExperiments.sh which run all the experimetns for code coverage. 
+However a specific sized test can be run from the experiment folder via raco command line. There are files name wef-XXk.rkt where
+the XX is the number of tes cases. For example to run code coverage with 10.000 test cases
+just run : 
+
+```racket
+raco  cover experiment/ewf-10k.rkt  peg-gen.rkt
+```
+
 
 
 
